@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TAIDI LAAMIRI Taha</h1>
 <h3 align="center">Highly motivated automation engineer with experience in industrial automation systems. Led robotics team, passionate about sustainability and making a positive impact. Seeking career growth and new opportunities.</h3>
-<img align="centre" alt="Coding" width="400" src="https://github.com/DexterTaha/DexterTaha/blob/main/Image/Ajouter_un_titre__3_-removebg-preview.png"
+<p align="center"><img width="600" src="https://github.com/DexterTaha/DexterTaha/blob/main/Image/Ajouter_un_titre__3_-removebg-preview.png"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="dextertaha" /> </p>
 
