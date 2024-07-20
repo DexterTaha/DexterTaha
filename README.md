@@ -33,7 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dextertaha&" alt="dextertaha" /></p>
 
-- 🎵🎧 **SPOTIFY**
+<h1 align="center">🎵🎧 SPOTIFY</h1>
+
 <p align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yywitii045df074e7azo4369s&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
