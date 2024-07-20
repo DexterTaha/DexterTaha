@@ -28,10 +28,17 @@
 
 </p>
 
-<div align="center">
-  <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexterTaha&theme=dark"/>
-  <img align ="center" src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=dark" />
-</div>
+<table style="width: 100%; text-align: center; border: none;">
+  <tr>
+    <td style="width: 50%; padding: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexterTaha&theme=dark" style="height: 150px;" />
+    </td>
+    <td style="width: 50%; padding: 10px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=dark" style="height: 150px;" />
+    </td>
+  </tr>
+</table>
+
 <br>
 
 | ![](https://github-readme-stats.vercel.app/api?username=DexterTaha&show_icons=true&locale=en&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DexterTaha&theme=dark) |
