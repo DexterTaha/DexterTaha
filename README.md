@@ -25,17 +25,17 @@
 
 <p align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DexterTaha&show_icons=true&locale=en&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DexterTaha&show_icons=true&locale=en&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexterTaha&show_icons=true&locale=en&layout=compact&theme=github_dark" />
 
 </p>
 
 <div align="center">
-  <img align ="center" src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=algolia" />
+  <img align ="center" src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=dark" />
 </div>
 <br>
 
-| ![](https://github-readme-stats.vercel.app/api?username=DexterTaha&show_icons=true&locale=en&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DexterTaha&theme=github_dark) |
+| ![](https://github-readme-stats.vercel.app/api?username=DexterTaha&show_icons=true&locale=en&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DexterTaha&theme=dark) |
 |-|-|
 
 <h1 align="center">🎵🎧 SPOTIFY</h1>
