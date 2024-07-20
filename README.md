@@ -23,8 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexterTaha&show_icons=true&locale=en&layout=compact&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=dark" style="height: 150px;" />
 
 </p>
 
@@ -34,7 +33,8 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexterTaha&theme=dark" style="height: 150px;" />
     </td>
     <td style="width: 50%; padding: 10px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=dark" style="height: 150px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexterTaha&show_icons=true&locale=en&layout=compact&theme=github_dark" />
+      
     </td>
   </tr>
 </table>
