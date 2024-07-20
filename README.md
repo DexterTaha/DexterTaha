@@ -24,7 +24,7 @@
 <h2 align="left">Programming Languages:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,micropython" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java" />
   </a>
 </p>
 
@@ -123,7 +123,7 @@
 <h2 align="left">Social Media:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,instagram,discord,gmail,linkedin,twitter" />
+    <img src="https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin,twitter" />
   </a>
 </p>
 
