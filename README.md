@@ -19,31 +19,14 @@
 </p>
 
 
-###
-<h2 align="left">Programming Languages</h2>
-###
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
-  </a>
-</p>
-###
-<h2 align="left">Programming Languages</h2>
-###
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
-  </a>
-</p>
 ###
 <h2 align="left">Programming Languages:</h2>
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,micropython,java,assembly" />
   </a>
 </p>
 ###
@@ -61,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=React,Vue,Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap" />
   </a>
 </p>
 ###
@@ -70,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=MySQL,FireBase" />
+    <img src="https://skillicons.dev/icons?i=mySQL,firebase" />
   </a>
 </p>
 ###
@@ -79,7 +62,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Docker,Kubernetes,Git,GitHub" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gitHub" />
+  </a>
+</p>
+###
+<h2 align="left">Design and Visualization:</h2>
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,figma,ae,ps,pr" />
+  </a>
+</p>
+###
+<h2 align="left">Programming Languages</h2>
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
   </a>
 </p>
 ###
