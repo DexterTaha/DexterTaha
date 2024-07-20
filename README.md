@@ -24,7 +24,7 @@
 <h2 align="left">Programming Languages:</h2>
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,micropython,assembly" />
   </a>
@@ -33,7 +33,7 @@
 <h2 align="left">Frontend:</h2>
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,scss" />
   </a>
@@ -42,7 +42,7 @@
 <h2 align="left">Frameworks and Libraries:</h2>
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,bootstrap" />
   </a>
@@ -51,7 +51,7 @@
 <h2 align="left">Databases:</h2>
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
@@ -60,7 +60,7 @@
 <h2 align="left">Cloud Platforms and DevOps:</h2>
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
   </a>
@@ -69,7 +69,7 @@
 <h2 align="left">Design and Visualization:</h2>
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr" />
   </a>
@@ -78,7 +78,7 @@
 <h2 align="left">Programming Languages</h2>
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
   </a>
