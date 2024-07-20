@@ -25,8 +25,8 @@
 
 <p align="center">
 
-  <img align="center" src="https://raw.githubusercontent.com/DexterTaha/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img align="center" src="https://raw.githubusercontent.com/DexterTaha/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DexterTaha&show_icons=true&locale=en&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexterTaha&show_icons=true&locale=en&layout=compact&theme=github_dark" />
 
 </p>
 
