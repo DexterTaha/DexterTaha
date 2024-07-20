@@ -16,17 +16,23 @@
 </p>
 
 
+###
 
+<h2 align="left">💻 Tecnoologies & Tools</h2>
 
-
-
-<h3 align="left">Languages and Tools:</h3>
+###
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=dark" style="height: 150px;" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 
+###
+
+<h2 align="left">📊 Stats</h2>
+
+###
 <table style="width: 100%; text-align: center; border: none;">
   <tr>
     <td style="width: 50%; padding: 10px;">
@@ -38,6 +44,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=dark" style="height: 150px;" />
+
+</p>
 
 <br>
 
