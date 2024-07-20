@@ -33,11 +33,11 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexterTaha&theme=dark" style="height: 150px;" />
     </td>
     <td style="width: 50%; padding: 10px;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexterTaha&show_icons=true&locale=en&layout=compact&theme=github_dark" />
-      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DexterTaha&show_icons=true&locale=en&layout=compact&theme=github_dark" style="height: 150px;" />
     </td>
   </tr>
 </table>
+
 
 <br>
 
