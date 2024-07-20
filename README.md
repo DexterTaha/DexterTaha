@@ -22,67 +22,111 @@
 
 ###
 <h2 align="left">Programming Languages:</h2>
-
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,micropython,assembly" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,micropython" />
   </a>
 </p>
+
+
 
 <h2 align="left">Frontend:</h2>
-
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scss" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss,latex" />
   </a>
 </p>
 
-<h2 align="left">Frameworks and Libraries:</h2>
 
 
+<h2 align="left">Frameworks:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,bootstrap" />
   </a>
 </p>
 
+
+
 <h2 align="left">Databases:</h2>
-
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
 </p>
 
+
+
 <h2 align="left">Cloud Platforms and DevOps:</h2>
-
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
   </a>
 </p>
 
+
+
 <h2 align="left">Design and Visualization:</h2>
-
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr" />
   </a>
 </p>
 
-<h2 align="left">Programming Languages</h2>
 
 
+<h2 align="left">Robotics & IA:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,ros,bash,opencv,pytorch,tensorflow" />
   </a>
 </p>
+
+
+
+<h2 align="left">IDE:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,arduino,androidstudio,bash,sublime,processing" />
+  </a>
+</p>
+
+
+
+<h2 align="left">OS:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,windows,raspberrypi,linux,kali,ubuntu" />
+  </a>
+</p>
+
+
+
+<h2 align="left">3D & CAD & Simulation:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,matlab,sketchup,unity" />
+  </a>
+</p>
+
+
+
+<h2 align="left">Tooools:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,matlab,stackoverflow" />
+  </a>
+</p>
+
+
+
+<h2 align="left">Social Media:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,instagram,discord,gmail,linkedin,twitter" />
+  </a>
+</p>
+
 ###
 <h2 align="left">📊 Stats</h2>
 
