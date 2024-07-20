@@ -20,15 +20,68 @@
 
 
 ###
-<h2 align="left">💻 Tecnoologies & Tools</h2>
+<h2 align="left">Programming Languages</h2>
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scss,vim" />
+    <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
   </a>
 </p>
+###
+<h2 align="left">Programming Languages</h2>
+###
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
+  </a>
+</p>
+###
+<h2 align="left">Programming Languages:</h2>
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,python,micropython,java,assembly" />
+  </a>
+</p>
+###
+<h2 align="left">Frontend:</h2>
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss" />
+  </a>
+</p>
+###
+<h2 align="left">Frameworks and Libraries:</h2>
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=React,Vue,Bootstrap" />
+  </a>
+</p>
+###
+<h2 align="left">Databases:</h2>
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=MySQL,FireBase" />
+  </a>
+</p>
+###
+<h2 align="left">Cloud Platforms and DevOps:</h2>
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Docker,Kubernetes,Git,GitHub" />
+  </a>
+</p>
 ###
 <h2 align="left">📊 Stats</h2>
 ###
