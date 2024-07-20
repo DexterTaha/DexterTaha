@@ -10,7 +10,7 @@
 - 
 ###
 <h2 align="left">Connect with me:</h2>
-###
+
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/taha-taidi-laamiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taha-taidi-laamiri/" height="30" width="40" /></a>
@@ -22,16 +22,16 @@
 
 ###
 <h2 align="left">Programming Languages:</h2>
-###
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,micropython,java,assembly" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,micropython,assembly" />
   </a>
 </p>
 ###
 <h2 align="left">Frontend:</h2>
-###
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@
 </p>
 ###
 <h2 align="left">Frameworks and Libraries:</h2>
-###
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,34 +49,34 @@
 </p>
 ###
 <h2 align="left">Databases:</h2>
-###
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mySQL,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
 </p>
 ###
 <h2 align="left">Cloud Platforms and DevOps:</h2>
-###
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gitHub" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
   </a>
 </p>
 ###
 <h2 align="left">Design and Visualization:</h2>
-###
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,figma,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr" />
   </a>
 </p>
 ###
 <h2 align="left">Programming Languages</h2>
-###
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -85,7 +85,7 @@
 </p>
 ###
 <h2 align="left">📊 Stats</h2>
-###
+
 
 <table style="width: 100%; text-align: center; border: none;">
   <tr>
@@ -110,7 +110,7 @@
 
 ###
 <h2 align="left">🎵🎧 SPOTIFY</h2>
-###
+
 <p align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yywitii045df074e7azo4369s&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
