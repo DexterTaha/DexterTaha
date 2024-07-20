@@ -7,7 +7,7 @@
 - 💬 Ask me about **Robotics**
 
 - 📫 How to reach me **taiditaha@gmail.com**
-- 
+  
 ###
 <h2 align="left">Connect with me:</h2>
 
@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,micropython,assembly" />
   </a>
 </p>
-###
+
 <h2 align="left">Frontend:</h2>
 
 
@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,scss" />
   </a>
 </p>
-###
+
 <h2 align="left">Frameworks and Libraries:</h2>
 
 
@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=react,vue,bootstrap" />
   </a>
 </p>
-###
+
 <h2 align="left">Databases:</h2>
 
 
@@ -56,7 +56,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
 </p>
-###
+
 <h2 align="left">Cloud Platforms and DevOps:</h2>
 
 
@@ -65,7 +65,7 @@
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
   </a>
 </p>
-###
+
 <h2 align="left">Design and Visualization:</h2>
 
 
@@ -74,7 +74,7 @@
     <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr" />
   </a>
 </p>
-###
+
 <h2 align="left">Programming Languages</h2>
 
 
