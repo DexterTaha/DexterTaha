@@ -31,13 +31,11 @@
 </p>
 
 <div align="center">
-<img align ="center" src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=algolia" />
+  <img align ="center" src="https://github-profile-trophy.vercel.app/?username=DexterTaha&row=1&theme=algolia" />
 </div>
 <br>
 
-
-
-| ![](https://github-readme-stats.vercel.app/api?username=DexterTaha&show_icons=true&locale=en&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DexterTahas&theme=github_dark) |
+| ![](https://github-readme-stats.vercel.app/api?username=DexterTaha&show_icons=true&locale=en&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DexterTaha&theme=github_dark) |
 |-|-|
 
 <h1 align="center">🎵🎧 SPOTIFY</h1>
