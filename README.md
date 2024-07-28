@@ -121,11 +121,18 @@
 
 
 <h2 align="left">Social Media:</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin,twitter" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/taha-taidi-laamiri/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://discordid.netlify.app/?id=968250839993036850" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/taha_taidi_laamiri/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
 
 ###
 <h2 align="left">📊 Stats</h2>
